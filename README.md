@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: Upcoming SWE Intern at ![Microsoft Badge](https://img.shields.io/badge/Microsoft-white?style=flat&logo=Microsoft&logoColor=black)
+- :telescope: SWE Intern at ![Microsoft Badge](https://img.shields.io/badge/Microsoft-white?style=flat&logo=Microsoft&logoColor=black)
 - 😄 I am a Machine Learning and Data Science Enthusiast. I am also a Competetive Programmer and Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :seedling: Exploring Technical Tools and Nurturing new budding Developers and Programmers around Me. 
